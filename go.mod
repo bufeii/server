@@ -1,4 +1,5 @@
 module github.com/gotify/server/v2
+go 1.14
 
 require (
 	github.com/fortytw2/leaktest v1.3.0
@@ -32,4 +33,4 @@ require (
 	gopkg.in/yaml.v2 v2.4.0
 )
 
-go 1.14
+
